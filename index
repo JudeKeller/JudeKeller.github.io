@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jude Keller - Plant Science MS Student</title>
     <meta name="description" content="Penn State Masters of Agricultural and Environmental Plant Sciences student investigating <i>Mentha</i> metabolomics in controlled environment agriculture systems">
-    <link rel="canonical" href="jude-keller.com" />
+    <link rel="canonical" href="judekeller.github.io" />
     <style>
             :root { --bg: #fffbf0; --text: #292524; --accent: #ea580c; --card-bg: transparent; --card-border: 0; --font-main: 'Georgia', serif; }
             body { background: var(--bg); color: var(--text); font-family: var(--font-main); margin: 0; line-height: 1.6; }
